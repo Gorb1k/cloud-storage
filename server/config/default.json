@@ -1,0 +1,6 @@
+{
+  "serverPort": 5000,
+  "dbURL": "mongodb+srv://CloudUser:9DMhSiUmjjlYhmai@cloud-disk.qeqrv.mongodb.net/Cloud-disk?retryWrites=true&w=majority",
+  "secretKey": "JWT_secret",
+  "filePath": "C:\\work\\GitHub\\cloud-storage\\server\\files"
+}
